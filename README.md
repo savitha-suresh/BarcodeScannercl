@@ -27,3 +27,4 @@ Savitha Suresh, savitha.s@caratlane.com
 ## License
 
 BarcodeScannercl is available under the MIT license. See the LICENSE file for more info.
+# BarcodeScannercl
